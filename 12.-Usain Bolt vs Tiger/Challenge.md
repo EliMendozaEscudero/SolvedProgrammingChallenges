@@ -1,5 +1,5 @@
 ﻿# CHALLENGE:
-All submissions for this problem are available.Back in 2015, Usain Bolt announced that he'll be retiring after the 2017 World Championship. Though his final season did not end gloriously, we all know that he is a true legend and we witnessed his peak during 2008 - 2013.
+Back in 2015, Usain Bolt announced that he'll be retiring after the 2017 World Championship. Though his final season did not end gloriously, we all know that he is a true legend and we witnessed his peak during 2008 - 2013.
 
 Post retirement, Usain Bolt is still leading an adventurous life. He's exploring the unexplored parts of the globe. But sometimes he gets bored, and reads questions asked about him on Quora. One such question he read was, "Who would win a race between Usain Bolt and a tiger if the race is on a straight line track and the tiger is distancetoBolt meters behind Bolt? The finishing point is finish meters away from Bolt's starting position. The tiger starts with an initial speed of 0 meter/second, and will accelerate itself with tigerAccelaration m/s2. Bolt can run with a constant speed of boltSpeed m/s from start to finish. Given these values, find out who will win the race - Bolt or the tiger? "
 
