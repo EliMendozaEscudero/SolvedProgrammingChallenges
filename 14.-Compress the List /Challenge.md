@@ -15,7 +15,7 @@ For each test case, print a single line containing one string ― the compressed
  - 1≤T≤100
  - 1≤N≤100
  - 1≤A<sub>i</sub>≤1,000 for each valid i
- - A<sub>1</sub><A<sub>2</sub><…<AN
+ - A<sub>1</sub><A<sub>2</sub><…<A<sub>N</sub>
 
 # Date:
 
