@@ -1,2 +1,2 @@
 # SolvedProgrammingChallenges
-Some solved programming challenges.
+Just some solved programming challenges.
