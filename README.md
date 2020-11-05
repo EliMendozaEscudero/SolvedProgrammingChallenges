@@ -7,4 +7,4 @@ Just some solved programming challenges.
 I tried to make a set of public problems and personal solutions to be helpful for studying maths and algorithms through the funniest way that I know, solving problems.
 
 ## Organitation:
-Every folder contains a problem writen in markdown and their original source.
+Every folder contains a problem and their original source written in markdown  and a solution in another file.
